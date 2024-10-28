@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Coursework_WinForms_Framework.Battlesuite">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQRIAyEBACAgAQEDApAAEQAAGEIAAhAAQAEAggBAiA=</HashCode>
+      <FileName>MyClasses\Battlesuite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_WinForms_Framework.AddNewBattlesuitsCore">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <AssociationLine Name="_mainForm" Type="Coursework_WinForms_Framework.MainForm" ManuallyRouted="true">
+      <Path>
+        <Point X="2.75" Y="2.646" />
+        <Point X="1.344" Y="2.646" />
+        <Point X="1.344" Y="2.059" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.282" Y="0.31" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAQAQAAAAAIA=</HashCode>
+      <FileName>WorkWithData\AddNewBattlesuitsCore.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_mainForm" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Coursework_WinForms_Framework.WorkWithData.EditBattlesuitInfoCore">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <AssociationLine Name="_mainForm" Type="Coursework_WinForms_Framework.MainForm">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.069" Y="0.126" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAQQAAAAQAAAAAAAAAAAAAAQEAAAAAAAQAQAAAAAIA=</HashCode>
+      <FileName>WorkWithData\EditBattlesuitInfoCore.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_mainForm" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Coursework_WinForms_Framework.WorkWithData.QueriesCore">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <AssociationLine Name="_mainForm" Type="Coursework_WinForms_Framework.MainForm" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.75" Y="4.25" />
+        <Point X="0.625" Y="4.25" />
+        <Point X="0.625" Y="2.059" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.982" Y="0.718" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="bs" Type="Coursework_WinForms_Framework.Battlesuite" FixedFromPoint="true">
+      <Path>
+        <Point X="6.062" Y="4.661" />
+        <Point X="6.062" Y="5.5" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.085" Y="0.043" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="iebs" Type="Coursework_WinForms_Framework.Battlesuite">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.102" Y="0.052" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AgAAAAEAAAAAAAAAAIAAAAAAhAAAAAAAAQgCAAAAAII=</HashCode>
+      <FileName>WorkWithData\QueriesCore.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_mainForm" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="bs" />
+      <Field Name="iebs" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Coursework_WinForms_Framework.WorkWithJson">
+    <Position X="0.75" Y="5.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAIAACAAoAAAAABAAAAAQBAAAAAAAAA=</HashCode>
+      <FileName>WorkWithData\WorkWithJson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_WinForms_Framework.WorkWithSQLite">
+    <Position X="0.75" Y="6.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WorkWithData\WorkWithSQLite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_WinForms_Framework.MainForm">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <AssociationLine Name="_core" Type="Coursework_WinForms_Framework.MainFormCore">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.093" Y="0.094" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>/yZNIIIEliUxqJcCwAK7EwAG47v/qOAwUwGIhYsobvI=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_core" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Coursework_WinForms_Framework.MainFormCore">
+    <Position X="9" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <AssociationLine Name="_addNewBattlesuitsCore" Type="Coursework_WinForms_Framework.AddNewBattlesuitsCore" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="9.5" Y="2.171" />
+        <Point X="9.5" Y="2.812" />
+        <Point X="4.25" Y="2.812" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="_mainForm" Type="Coursework_WinForms_Framework.MainForm" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="9.625" Y="1" />
+        <Point X="9.625" Y="0.125" />
+        <Point X="1.25" Y="0.125" />
+        <Point X="1.25" Y="0.5" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="_queriesCore" Type="Coursework_WinForms_Framework.WorkWithData.QueriesCore" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="9.75" Y="2.171" />
+        <Point X="9.75" Y="4.188" />
+        <Point X="7.25" Y="4.188" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>ABEAwAMAAQCAoAAAAICAEAQAQEYAACAIIQBSAAAAAAI=</HashCode>
+      <FileName>MainFormCore.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_addNewBattlesuitsCore" />
+      <Field Name="_mainForm" />
+      <Field Name="_editBattlesuitInfoCore" />
+      <Field Name="_queriesCore" />
+      <Field Name="cr" />
+      <Field Name="ds1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Coursework_WinForms_Framework.Program">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_WinForms_Framework.CrystalReport1" Collapsed="true">
+    <Position X="11.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAJAAAQAAAAAAAIAAAAAAAAAAAACAABAAAABAA=</HashCode>
+      <FileName>CrystalReport1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_WinForms_Framework.DataSet1" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAALABAAAQAAAAAgCQBgAAAAAAgEABBA=</HashCode>
+      <FileName>DataSet1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

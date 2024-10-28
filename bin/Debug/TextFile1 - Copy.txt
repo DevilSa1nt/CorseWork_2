@@ -1,0 +1,76 @@
+1    Aponia    Disciplinary Perdition    2000/05/25    Sundown Alley    175    60    Biologic    Lighting    5.0    5.0    4.0    2.7    3.7    1
+2    Asuka    Blazing Hope    2000/12/04    -    157    -    Biologic    Physical    0    0    0    0    0    0
+3    Bronya    Black Nucleus    2000/08/18    Siberia    147    40    Biologiv    Physical    4    5    3.2    1    2    1
+4    Bronya    Dimension Breaker    2000/08/18    Siberia    147    40    Mecha    Physical    3.8    3.8    2.6    4    2    4
+5    Bronya    Drive Kometa    2000/08/18    Siberia    147    40    Psychic     Physical    0    0    0    0    0    0
+6    Bronya    Haxxor Bunny    2000/08/18    Siberia    150    41    Psychic     Ice    4    2    2.4    5    3    2
+7    Bronya    Herrscher of Reason    2000/08/18    Siberia    150    41    Mecha    Ice     5    4.8    5    1    4    4
+8    Bronya    Silverwing: N-EX    2000/08/18    Siberia    150    41    Biologic    Ice     5    5    4    3    3.8    2
+9    Bronya    Snowy Sniper    2000/08/18    Siberia    150    41    Biologic    Physical     3.2    2.8    4    4    2    4.2
+10    Bronya    Valkyrie Chariot    2000/08/18    Siberia    150    41    Psychic    Physical     3.8    4.2    2    5    1.8    5
+11    Bronya    Wolf"s Dawn    2000/08/18    Siberia    150    41    Psychic    Physical     2.8    4    4    4    4.6    2.2
+12    Bronya    Yamabuki Armor    2000/08/18    Siberia    150    41    Psychic    Physical     2.6    1.8    3.8    4.4    3.4    3.4
+13    Carole Pepper    Sweet "n" Spicy    2000/09/23    -    163    56    Mecha    Physical    4    2    3    4.2    3.2    3.4
+14    Durandal    Bright Knight: Excelsis    2000/01/01    -    165    54    Mecha    Physical    4.6    4.8    5    1    4.2    3
+15    Durandal    Dea Anchora    2000/01/01    -    165    54    Biologic    Fire    5    5    4    1.8    3.6    3
+16    Durandal    Palatinus Equinox    2000/01/01    -    165    54    Imaginary    Physical    5    4.8    5    1    4    2.6
+17    Durandal    Valkyrie Gloria    2000/01/01    -    165    54    Quantum    Fire    4.2    3.9    2.5    1.8    4.1    2.1
+18    Eden    Golden Diva    2000/10/31    Mu    174    58    Imaginary    Lightning    3.9    4.2    3.5    4    4.5    4.3
+19    Elysia    Herrscher of Human: Ego    2000/11/11    -    163    54.8    Psychic    Ice    5    5    3.2    1.9    3.7    2.1
+20    Elysia    Miss Pink Elf    2000/11/11    -    163    54.8    Psychic    Physical    5    5    3.2    1.9    3.7    2.1
+21    Fischl    Prinzessin der Verurteilung    2000/05/27    -    -    -    Biologic    Lightning    4    2.8    2.1    4    3.7    1.3
+22    Fu Hua    Azure Empyrea    2000/05/27    -    165    53    Psychic    Fire    4.1    3.1    4.1    5    2    3
+24    Fu Hua    Herrscher of Sentience    2000/05/27    -    165    53    Biologic    Physical    4.2    4.3    2.8    5    3.2    2.1
+25    Fu Hua    Night Squire    2000/05/27    -    165    53    Biologic    Physical    1    1    1    1    1    1
+26    Fu Hua    Phoenix    2000/05/27    -    165    53    Psychic    Fire    1    1    1    1    1    1
+27    Fu Hua    Shadow Knight    2000/05/27    -    165    53    Mecha    Lightning    1    1    1    1    1    1
+28    Fu Hua    Valkyrie Accipiter    2000/05/27    -    165    53    Psychic    Physical    1    1    1    1    1    1
+29    Griseo    Starry Impression    2000/12/21    Mu    145    39    Psychic    Physical    1    1    1    1    1    1
+30    Kallen Kaslana    Ritual Imayoh    -    -    170    54    Mecha    Physical    1    1    1    1    1    1
+31    Kallen Kaslana    Sixth Serenade    -    -    170    54    Psychic    Ice    1    1    1    1    1    1
+32    Kallen Kaslana    Sündenjäger    -    -    170    54    Mecha    Physical    1    1    1    1    1    1
+33    Kiana Kaslana    Divine Prayer    2000/12/07    Lab eA-401-435    163    49    Psychic    Physical    1    1    1    1    1    1
+34    Kiana Kaslana    Herrscher of Flamescion    2000/12/07    Lab eA-401-435    163    49    Psychic    Fire    1    1    1    1    1    1
+35    Kiana Kaslana    Herrscher of the Void    2000/12/07    Lab eA-401-435    163    49    Biologic    Physical    1    1    1    1    1    1
+36    Kiana Kaslana    Knight Moonbeam    2000/12/07    Lab eA-401-435    163    49    Biologic    Physical    1    1    1    1    1    1
+37    Kiana Kaslana    Valkyrie Ranger    2000/12/07    Lab eA-401-435    163    49    Mecha    Physical    1    1    1    1    1    1
+38    Kiana Kaslana    Void Drifter    2000/12/07    Lab eA-401-435    163    49    Mecha    Physical    1    1    1    1    1    1
+39    Kiana Kaslana    White Comet    2000/12/07    Lab eA-401-435    163    49    Mecha    Physical    1    1    1    1    1    1
+40    Li Sushang    Jade Knight    2000/04/03    Shenzhou    -    -    Psychic    Ice    1    1    1    1    1    1
+41    Liliya Olenyeva    Blueberry Blitz    -    Siberia    149    -    Mecha    Physical    1    1    1    1    1    1
+42    Mobius    Infinite Ouroboros    -    Previous Era    173    54.7    Mecha    Lightning    1    1    1    1    1    1
+43    Murata Himeko    Battle Storm    2000/06/11    Far East    167    65    Biologic    Physical    1    1    1    1    1    1
+44    Murata Himeko    Blood Rose    2000/06/11    Far East    167    65    Psychic    Fire    1    1    1    1    1    1
+45    Murata Himeko    Kriegsmesser    2000/06/11    Far East    167    65    Psychic    Ice    1    1    1    1    1    1
+46    Murata Himeko    Scarlet Fusion    2000/06/11    Far East    167    65    Mecha    Lightning    1    1    1    1    1    1
+47    Murata Himeko    Valkyrie Triumph    2000/06/11    Far East    167    65    Biologic    Physical    1    1    1    1    1    1
+48    Murata Himeko    Vermilion Knight: Eclipse    2000/06/11    Far East    167    65    Mecha    Fire    1    1    1    1    1    1
+49    Natasha Cioara    Midnight Absinthe    2000/06/19    Siberia    167    55    Imaginary    Fire    1    1    1    1    1    1
+50    Pardofelis    Reverist Calico    2000/07/11    Sundown Alley    164    50    Imaginary    Ice    1    1    1    1    1    1
+51    Raiden Mei    Crimson Impulse    2000/04/13    Far East    172    50    Biologic    Physical    1    1    1    1    1    1
+52    Raiden Mei    Danzai Spectramancer    2000/04/13    Far East    172    50    Mecha    Physical    1    1    1    1    1    1
+53    Raiden Mei    Herrscher of Thunder    2000/04/13    Far East    172    50    Psychic    Lightning    1    1    1    1    1    1
+54    Raiden Mei    Lightning Empress    2000/04/13    Far East    172    50    Psychic    Lightning    1    1    1    1    1    1
+55    Raiden Mei    Shadow Dash    2000/04/13    Far East    172    50    Mecha    Physical    1    1    1    1    1    1
+56    Raiden Mei    Striker Fulminata    2000/04/13    Far East    172    50    Biologic    Physical    1    1    1    1    1    1
+57    Raiden Mei    Valkyrie Bladestrike    2000/04/13    Far East    172    50    Biologic    Physical    1    1    1    1    1    1
+58    Rita Rossweisse    Argent Knight: Artemis    2000/03/01    Great Britain    168    56    Biologic    Ice    1    1    1    1    1    1
+59    Rita Rossweisse    Fallen Rosemary    2000/03/01    Great Britain    168    56    Quantum    Lightning    1    1    1    1    1    1
+60    Rita Rossweisse    Phantom Iron    2000/03/01    Great Britain    168    56    Mecha    Lightning    1    1    1    1    1    1
+61    Rita Rossweisse    Umbral Rose    2000/03/01    Great Britain    168    56    Psychic    Physical    1    1    1    1    1    1
+62    Rozaliya Olenyeva    Fervent Tempo    -    Siberia    149    -    Psychic    Physical    1    1    1    1    1    1
+63    Seele Vollerei    Starchasm Nyx    2000/10/18    Estonia    149    42    Quantum    Ice    1    1    1    1    1    1
+64    Seele Vollerei    Stygian Nymph    2000/10/18    Estonia    149    42    Quantum    Physical    1    1    1    1    1    1
+65    Seele Vollerei    Swallowtail Phantasm    2000/10/18    Estonia    149    42    Quantum    Physical    1    1    1    1    1    1
+66    Theresa Apocalypse    Celestial Hymn    2000/03/28    Europe    145    38    Biologic    Physical    1    1    1    1    1    1
+67    Theresa Apocalypse    Luna Kindred    2000/03/28    Europe    145    38    Biologic    Physical    1    1    1    1    1    1
+68    Theresa Apocalypse    Sakuno Rondo    2000/03/28    Europe    145    38    Psychic    Fire    1    1    1    1    1    1
+69    Theresa Apocalypse    Starlit Astrologos    2000/03/28    Europe    145    38    Biologic    Physical    1    1    1    1    1    1
+70    Theresa Apocalypse    Twilight Paladin    2000/03/28    Europe    145    38    Mecha    Physical    1    1    1    1    1    1
+71    Theresa Apocalypse    Valkyrie Pledge    2000/03/28    Europe    145    38    Psychic    Lightning    1    1    1    1    1    1
+72    Theresa Apocalypse    Violet Executer    2000/03/28    Europe    145    38    Mecha    Physical    1    1    1    1    1    1
+73    Vill-V    Helical Contraption    2000/05/05    Magical Troupe W    166    56    Quantum    Fire    1    1    1    1    1    1
+74    Yae Sakura    Darkbolt Jonin    2000/07/22    Far East    194    56    Biologic    Lightning    1    1    1    1    1    1
+75    Yae Sakura    Flame Sakitama    2000/07/22    Far East    194    56    Biologic    Fire    1    1    1    1    1    1
+76    Yae Sakura    Goushinnso Memento    2000/07/22    Far East    194    56    Mecha    Ice    1    1    1    1    1    1
+77    Yae Sakura    Gyakushinn Miko    2000/07/22    Far East    194    56    Biologic    Physical    1    1    1    1    1    1

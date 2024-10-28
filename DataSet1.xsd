@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="_id" msprop:Generator_UserColumnName="_id" msprop:Generator_ColumnPropNameInTable="_idColumn" msprop:Generator_ColumnPropNameInRow="_id" msprop:Generator_ColumnVarNameInTable="column_id" type="xs:string" minOccurs="0" />
+              <xs:element name="_name" msprop:Generator_UserColumnName="_name" msprop:Generator_ColumnPropNameInTable="_nameColumn" msprop:Generator_ColumnPropNameInRow="_name" msprop:Generator_ColumnVarNameInTable="column_name" type="xs:string" minOccurs="0" />
+              <xs:element name="_battlesuitName" msprop:Generator_UserColumnName="_battlesuitName" msprop:Generator_ColumnPropNameInTable="_battlesuitNameColumn" msprop:Generator_ColumnPropNameInRow="_battlesuitName" msprop:Generator_ColumnVarNameInTable="column_battlesuitName" type="xs:string" minOccurs="0" />
+              <xs:element name="_birthday" msprop:Generator_UserColumnName="_birthday" msprop:Generator_ColumnPropNameInTable="_birthdayColumn" msprop:Generator_ColumnPropNameInRow="_birthday" msprop:Generator_ColumnVarNameInTable="column_birthday" type="xs:string" minOccurs="0" />
+              <xs:element name="_origin" msprop:Generator_UserColumnName="_origin" msprop:Generator_ColumnPropNameInTable="_originColumn" msprop:Generator_ColumnPropNameInRow="_origin" msprop:Generator_ColumnVarNameInTable="column_origin" type="xs:string" minOccurs="0" />
+              <xs:element name="_height" msprop:Generator_UserColumnName="_height" msprop:Generator_ColumnPropNameInTable="_heightColumn" msprop:Generator_ColumnPropNameInRow="_height" msprop:Generator_ColumnVarNameInTable="column_height" type="xs:string" minOccurs="0" />
+              <xs:element name="_weight" msprop:Generator_UserColumnName="_weight" msprop:Generator_ColumnPropNameInTable="_weightColumn" msprop:Generator_ColumnPropNameInRow="_weight" msprop:Generator_ColumnVarNameInTable="column_weight" type="xs:string" minOccurs="0" />
+              <xs:element name="_type" msprop:Generator_UserColumnName="_type" msprop:Generator_ColumnPropNameInTable="_typeColumn" msprop:Generator_ColumnPropNameInRow="_type" msprop:Generator_ColumnVarNameInTable="column_type" type="xs:string" minOccurs="0" />
+              <xs:element name="_element" msprop:Generator_UserColumnName="_element" msprop:Generator_ColumnPropNameInTable="_elementColumn" msprop:Generator_ColumnPropNameInRow="_element" msprop:Generator_ColumnVarNameInTable="column_element" type="xs:string" minOccurs="0" />
+              <xs:element name="_DMG" msprop:Generator_UserColumnName="_DMG" msprop:Generator_ColumnPropNameInTable="_DMGColumn" msprop:Generator_ColumnPropNameInRow="_DMG" msprop:Generator_ColumnVarNameInTable="column_DMG" type="xs:string" minOccurs="0" />
+              <xs:element name="_burst" msprop:Generator_UserColumnName="_burst" msprop:Generator_ColumnPropNameInTable="_burstColumn" msprop:Generator_ColumnPropNameInRow="_burst" msprop:Generator_ColumnVarNameInTable="column_burst" type="xs:string" minOccurs="0" />
+              <xs:element name="_survival" msprop:Generator_UserColumnName="_survival" msprop:Generator_ColumnPropNameInTable="_survivalColumn" msprop:Generator_ColumnPropNameInRow="_survival" msprop:Generator_ColumnVarNameInTable="column_survival" type="xs:string" minOccurs="0" />
+              <xs:element name="_support" msprop:Generator_UserColumnName="_support" msprop:Generator_ColumnPropNameInTable="_supportColumn" msprop:Generator_ColumnPropNameInRow="_support" msprop:Generator_ColumnVarNameInTable="column_support" type="xs:string" minOccurs="0" />
+              <xs:element name="_ease" msprop:Generator_UserColumnName="_ease" msprop:Generator_ColumnPropNameInTable="_easeColumn" msprop:Generator_ColumnPropNameInRow="_ease" msprop:Generator_ColumnVarNameInTable="column_ease" type="xs:string" minOccurs="0" />
+              <xs:element name="_control" msprop:Generator_UserColumnName="_control" msprop:Generator_ColumnPropNameInTable="_controlColumn" msprop:Generator_ColumnPropNameInRow="_control" msprop:Generator_ColumnVarNameInTable="column_control" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
